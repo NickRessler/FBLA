@@ -469,7 +469,8 @@ body {
     margin-top: 25px;
     margin-bottom: 30px;
     gap: 30px;
-    justify-content:left;
+    justify-content: left;
+    max-width: 85%;
 }
 
 .job-skills p{
